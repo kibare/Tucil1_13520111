@@ -1,5 +1,5 @@
 # Word Search Puzzle dengan Algoritma Brute Force
-*by: Rizky Akbar Asmaran - 13520111
+*by: Rizky Akbar Asmaran - 13520111 - K03
 
 ## Word Search Puzzle 
 Word search puzzle adalah permainan kata dimana pemain harus menemukan beberapa kata 
