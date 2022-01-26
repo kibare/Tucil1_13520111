@@ -22,6 +22,11 @@ dari sini: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2016-
 git clone https://github.com/kibare/Tucil1_13520111.git
  ```
  
+ ## Requirement
+ - Windows OS
+ - C++ compiler
+ - IDE
+ 
  ## Menjalankan Program
  - Masuk ke dalam folder hasil clone
  - Compile terlebih dahulu program menggunakan g++, kemudian jalankan program dengan nama file txt yang berisi puzzle sebagai argumen. gunakan command:
